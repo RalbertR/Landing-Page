@@ -1,0 +1,28 @@
+.Logo img{
+    height: 80px;
+
+}
+header{
+    background-color: #453746;
+    padding: 20px 250px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    display: flex;
+    height: 80px;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+ul li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: aliceblue;
+    font-size: 1.4rem;
+}
